@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/packagist/v/spinzar/firewall?label=release)](https://github.com/spinzar/firewall/releases)
 ![Downloads](https://img.shields.io/packagist/dt/spinzar/firewall)
 ![Tests](https://img.shields.io/github/workflow/status/spinzar/firewall/Tests?label=tests)
-[![StyleCI](https://github.styleci.io/repos/215219543/shield?branch=master)](https://github.styleci.io/repos/215219543?branch=master)
+[![StyleCI](https://github.styleci.io/repos/309671219/shield?branch=main)](https://github.styleci.io/repos/309671219?branch=main)
 [![Quality](https://img.shields.io/scrutinizer/quality/g/spinzar/firewall?label=quality)](https://scrutinizer-ci.com/g/spinzar/firewall)
 [![License](https://img.shields.io/github/license/spinzar/firewall)](LICENSE.md)
 
